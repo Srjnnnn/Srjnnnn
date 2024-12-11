@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  Hello :wave:  I am <b>Sercan</b>
+  Hello :wave:  I am <b>Eyüp Sercan</b>
   Working as a  consultant and an open-source contributor.
   I am into materials, physics, math, simulations, and software.
 </p>
